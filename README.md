@@ -9,4 +9,6 @@
 
  Para poder visualizar la aplicación corriendo hacer click en el siguiente enlace:
 
+ https://yohander20.github.io/Pacientes-React-Zustand/
+
 
