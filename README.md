@@ -3,9 +3,9 @@
 
  Se utilizo las siguientes herramientas:
  
- _la biblioteca React con TypeScript como lenguaje ademas de usar LocalStorage para el almacenamiento de los datos.
- -React Hook Form para validación del formulario.
- -Zustand que es una dependencia para manejar un estado global en las aplicaciones de React
+ La biblioteca React con TypeScript como lenguaje ademas de usar LocalStorage para el almacenamiento de los datos.
+ React Hook Form para validación del formulario.
+ Zustand que es una dependencia para manejar un estado global en las aplicaciones de React.
 
  Para poder visualizar la aplicación corriendo hacer click en el siguiente enlace:
 
